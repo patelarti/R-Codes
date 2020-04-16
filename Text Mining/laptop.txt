@@ -1,0 +1,781 @@
+"x"
+"
+
+
+
+
+
+
+
+  
+  
+    Bought it for Rs 65K. After using it for 2 weeks, here are the initial impressions:Pros:. ac wireless is very fast. I am getting 30MB/s download and upload to USB3 HDD plugged into my TP Link Archer C2600 router.. No flex on keyboard. The base is sturdy, lid is wobbly a bit, otherwise the whole build seems solid.. Sharp screen - With thin bezels and IPS, the images are vivid. Good for 3D work and movie watching.. Gpu is adequate for running current games at medium to low details. Its good enough for 3DS Max and other rendering packages.. TPM 2.0 present. It is recommended to use pro version of Windows to take advantage of the encryption features supported in hardware.. Battery lasts ~7hrs after 2-3 discharge cycles, moderate surfing, movie watching.. sound o/p is ok; as good as beats 2.1 setup in older laptop I was having. More louder also.. Less rubber - This laptop has less rubber so it will last long. I had to replace 5 year old HP laptop because the rubber parts around screen and lid had started rotting away and it was a mess cleaning it every time I opened it up.Cons:- Tight USB ports on left side - needs more force and might damage in long run- No kensigton lock port - why? This makes it unusable at most offices and workplaces.- No Ethernet; Using TP-Link UE300 USB adapter for ethernet which works well.- Stability: Intel Burn test passed but thermals is high, system getting stuck at times.- Drivers in website are hit or miss; tricky to install without setup program. It is recommended to save eSupport folder from the OEM installtion.- Cyberlink apps (Powerdirector, Photo Director) missing from downloads - You can image OEM installation as WIM file and unzip these apps from it after reinstalling Windows 10 freshly.- Air vents direct hot air to screen because they are at the hinges - dust accumulation after some time is seen- Easy to hit power button accidentally. Set the key action to nothing in windows as workaround.- Caps/num lk, hdd activity leds absent - The Caps lock is needed; others can be lived without.- Only Vga cam - My 5 year old laptop had HD resolution.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    I received the laptop approximately 1 week after I ordered it. The product was properly packed and the delivery guy insisted on OTP, which is a good thing considering expensive items.Laptop: Extremely light weight and even though it is 15.5\" still it is in the chassis of 14\" laptop. So it looks small.Initially the laptop comes with a lot of Asus apps which I found not very useful so I uninstalled them. The keyboard seems to be a little simple in quality but once you get used to it you feel its perfectly fine.I am a light gaming and some high end RAM and GPU hungry software like COMSOL user, the laptop does not get hot much for game like DOTA 2 with full graphics settings. Overall the GPU and RAM is more than enough. The touch pad is great and the fingerprint sensor works just fine. The camera is not the best in the market but I think its better than most of the laptops. The laptop is super fast because the OS in installed in SSD.Overall the laptop is great for professionals and students. I would totally recommend this laptop.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    I bought the laptop in May 2018. It has been running flawlessly since then and I have even gone ahead and advised my parents to buy the same laptop for themselves.Pros:Display- The screen is absolutely stunning. It's anti-glare, so you can look at it comfortably for a very long time.Performance- I couldn't find any other laptop in this range with both the MX150 graphics card and an Intel 8th gen processor. Combined with 8 GB RAM, you won't have any problems running modern games. Of course, do keep in mind that this is a laptop, don't expect the same performance as a desktop computer GPU.Cooling- The laptop stays cool during everyday use and doesn't heat up excessively while playing games.Build quality- The laptop is really thin and lightweight for the performance you get. It manages to fit a 15.6 inch screen in the size of a typical 14 inch laptop thanks to the thin bezels. I've liked the keyboard so far.Serviceability- You should find it fairly easy to dissemble the laptop on your own if you wish to. My previous HP laptop was horrible when it came to this.Cons:Bloatware- Remove the Asus apps (other than the battery one) and the default antivirus as soon as you get the laptop. Nothing more to say here.Speakers- Pretty underwhelming to say the least. Not a problem for me as I either use earphones or an external speaker.Webcam- It's bad, so don't get this laptop if that is really important to you. Personally, I've used the webcam once in the 5 months I have had the laptop.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    I bought this laptop a few weeks ago and here's what I uave noticed so far:Pros:1. Amazing Display2. Fairly portable3. Amazing performance4. Precise trackpad5. Decent keyboardCons:1. Very bad speakers2. Average battery life(~5-6 hours)3. Average build qualityThat being said, you can't expect much more at this price point.I recommend it.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    Decent laptop, but it has a very basic flaw. The volume from the speakers is extremely low, to the point of being pathetic. After installing some software to boost the volume to like, 300%, it's audible clearlyAlso, the USB slots are tight, God knows why
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    A good product around a price range of 50k-55k.MX150 - 2 GB performance  - Good for medium level gamming. Can play AAA Games with adjusting the graphic levels. Excellent for day to day and medium level graphic related work.Buily quality and screen display good.On the cons side camera is VGA and battery backup is not long enough i.e 5- 6 hrs. The weight of product is mentioned as 1.8 kg but feels more like 2 kg. There are other lighter options available but are costlier.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    Bought it for Rs 65K. After using it for 2 weeks, here are the initial impressions:Pros:. ac wireless is very fast. I am getting 30MB/s download and upload to USB3 HDD plugged into my TP Link Archer C2600 router.. No flex on keyboard. The base is sturdy, lid is wobbly a bit, otherwise the whole build seems solid.. Sharp screen - With thin bezels and IPS, the images are vivid. Good for 3D work and movie watching.. Gpu is adequate for running current games at medium to low details. Its good enough for 3DS Max and other rendering packages.. TPM 2.0 present. It is recommended to use pro version of Windows to take advantage of the encryption features supported in hardware.. Battery lasts ~7hrs after 2-3 discharge cycles, moderate surfing, movie watching.. sound o/p is ok; as good as beats 2.1 setup in older laptop I was having. More louder also.. Less rubber - This laptop has less rubber so it will last long. I had to replace 5 year old HP laptop because the rubber parts around screen and lid had started rotting away and it was a mess cleaning it every time I opened it up.Cons:- Tight USB ports on left side - needs more force and might damage in long run- No kensigton lock port - why? This makes it unusable at most offices and workplaces.- No Ethernet; Using TP-Link UE300 USB adapter for ethernet which works well.- Stability: Intel Burn test passed but thermals is high, system getting stuck at times.- Drivers in website are hit or miss; tricky to install without setup program. It is recommended to save eSupport folder from the OEM installtion.- Cyberlink apps (Powerdirector, Photo Director) missing from downloads - You can image OEM installation as WIM file and unzip these apps from it after reinstalling Windows 10 freshly.- Air vents direct hot air to screen because they are at the hinges - dust accumulation after some time is seen- Easy to hit power button accidentally. Set the key action to nothing in windows as workaround.- Caps/num lk, hdd activity leds absent - The Caps lock is needed; others can be lived without.- Only Vga cam - My 5 year old laptop had HD resolution.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    I received the laptop approximately 1 week after I ordered it. The product was properly packed and the delivery guy insisted on OTP, which is a good thing considering expensive items.Laptop: Extremely light weight and even though it is 15.5\" still it is in the chassis of 14\" laptop. So it looks small.Initially the laptop comes with a lot of Asus apps which I found not very useful so I uninstalled them. The keyboard seems to be a little simple in quality but once you get used to it you feel its perfectly fine.I am a light gaming and some high end RAM and GPU hungry software like COMSOL user, the laptop does not get hot much for game like DOTA 2 with full graphics settings. Overall the GPU and RAM is more than enough. The touch pad is great and the fingerprint sensor works just fine. The camera is not the best in the market but I think its better than most of the laptops. The laptop is super fast because the OS in installed in SSD.Overall the laptop is great for professionals and students. I would totally recommend this laptop.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    I bought the laptop in May 2018. It has been running flawlessly since then and I have even gone ahead and advised my parents to buy the same laptop for themselves.Pros:Display- The screen is absolutely stunning. It's anti-glare, so you can look at it comfortably for a very long time.Performance- I couldn't find any other laptop in this range with both the MX150 graphics card and an Intel 8th gen processor. Combined with 8 GB RAM, you won't have any problems running modern games. Of course, do keep in mind that this is a laptop, don't expect the same performance as a desktop computer GPU.Cooling- The laptop stays cool during everyday use and doesn't heat up excessively while playing games.Build quality- The laptop is really thin and lightweight for the performance you get. It manages to fit a 15.6 inch screen in the size of a typical 14 inch laptop thanks to the thin bezels. I've liked the keyboard so far.Serviceability- You should find it fairly easy to dissemble the laptop on your own if you wish to. My previous HP laptop was horrible when it came to this.Cons:Bloatware- Remove the Asus apps (other than the battery one) and the default antivirus as soon as you get the laptop. Nothing more to say here.Speakers- Pretty underwhelming to say the least. Not a problem for me as I either use earphones or an external speaker.Webcam- It's bad, so don't get this laptop if that is really important to you. Personally, I've used the webcam once in the 5 months I have had the laptop.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    I bought this laptop a few weeks ago and here's what I uave noticed so far:Pros:1. Amazing Display2. Fairly portable3. Amazing performance4. Precise trackpad5. Decent keyboardCons:1. Very bad speakers2. Average battery life(~5-6 hours)3. Average build qualityThat being said, you can't expect much more at this price point.I recommend it.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    Decent laptop, but it has a very basic flaw. The volume from the speakers is extremely low, to the point of being pathetic. After installing some software to boost the volume to like, 300%, it's audible clearlyAlso, the USB slots are tight, God knows why
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    A good product around a price range of 50k-55k.MX150 - 2 GB performance  - Good for medium level gamming. Can play AAA Games with adjusting the graphic levels. Excellent for day to day and medium level graphic related work.Buily quality and screen display good.On the cons side camera is VGA and battery backup is not long enough i.e 5- 6 hrs. The weight of product is mentioned as 1.8 kg but feels more like 2 kg. There are other lighter options available but are costlier.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    Bought it for Rs 65K. After using it for 2 weeks, here are the initial impressions:Pros:. ac wireless is very fast. I am getting 30MB/s download and upload to USB3 HDD plugged into my TP Link Archer C2600 router.. No flex on keyboard. The base is sturdy, lid is wobbly a bit, otherwise the whole build seems solid.. Sharp screen - With thin bezels and IPS, the images are vivid. Good for 3D work and movie watching.. Gpu is adequate for running current games at medium to low details. Its good enough for 3DS Max and other rendering packages.. TPM 2.0 present. It is recommended to use pro version of Windows to take advantage of the encryption features supported in hardware.. Battery lasts ~7hrs after 2-3 discharge cycles, moderate surfing, movie watching.. sound o/p is ok; as good as beats 2.1 setup in older laptop I was having. More louder also.. Less rubber - This laptop has less rubber so it will last long. I had to replace 5 year old HP laptop because the rubber parts around screen and lid had started rotting away and it was a mess cleaning it every time I opened it up.Cons:- Tight USB ports on left side - needs more force and might damage in long run- No kensigton lock port - why? This makes it unusable at most offices and workplaces.- No Ethernet; Using TP-Link UE300 USB adapter for ethernet which works well.- Stability: Intel Burn test passed but thermals is high, system getting stuck at times.- Drivers in website are hit or miss; tricky to install without setup program. It is recommended to save eSupport folder from the OEM installtion.- Cyberlink apps (Powerdirector, Photo Director) missing from downloads - You can image OEM installation as WIM file and unzip these apps from it after reinstalling Windows 10 freshly.- Air vents direct hot air to screen because they are at the hinges - dust accumulation after some time is seen- Easy to hit power button accidentally. Set the key action to nothing in windows as workaround.- Caps/num lk, hdd activity leds absent - The Caps lock is needed; others can be lived without.- Only Vga cam - My 5 year old laptop had HD resolution.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    I received the laptop approximately 1 week after I ordered it. The product was properly packed and the delivery guy insisted on OTP, which is a good thing considering expensive items.Laptop: Extremely light weight and even though it is 15.5\" still it is in the chassis of 14\" laptop. So it looks small.Initially the laptop comes with a lot of Asus apps which I found not very useful so I uninstalled them. The keyboard seems to be a little simple in quality but once you get used to it you feel its perfectly fine.I am a light gaming and some high end RAM and GPU hungry software like COMSOL user, the laptop does not get hot much for game like DOTA 2 with full graphics settings. Overall the GPU and RAM is more than enough. The touch pad is great and the fingerprint sensor works just fine. The camera is not the best in the market but I think its better than most of the laptops. The laptop is super fast because the OS in installed in SSD.Overall the laptop is great for professionals and students. I would totally recommend this laptop.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    I bought the laptop in May 2018. It has been running flawlessly since then and I have even gone ahead and advised my parents to buy the same laptop for themselves.Pros:Display- The screen is absolutely stunning. It's anti-glare, so you can look at it comfortably for a very long time.Performance- I couldn't find any other laptop in this range with both the MX150 graphics card and an Intel 8th gen processor. Combined with 8 GB RAM, you won't have any problems running modern games. Of course, do keep in mind that this is a laptop, don't expect the same performance as a desktop computer GPU.Cooling- The laptop stays cool during everyday use and doesn't heat up excessively while playing games.Build quality- The laptop is really thin and lightweight for the performance you get. It manages to fit a 15.6 inch screen in the size of a typical 14 inch laptop thanks to the thin bezels. I've liked the keyboard so far.Serviceability- You should find it fairly easy to dissemble the laptop on your own if you wish to. My previous HP laptop was horrible when it came to this.Cons:Bloatware- Remove the Asus apps (other than the battery one) and the default antivirus as soon as you get the laptop. Nothing more to say here.Speakers- Pretty underwhelming to say the least. Not a problem for me as I either use earphones or an external speaker.Webcam- It's bad, so don't get this laptop if that is really important to you. Personally, I've used the webcam once in the 5 months I have had the laptop.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    I bought this laptop a few weeks ago and here's what I uave noticed so far:Pros:1. Amazing Display2. Fairly portable3. Amazing performance4. Precise trackpad5. Decent keyboardCons:1. Very bad speakers2. Average battery life(~5-6 hours)3. Average build qualityThat being said, you can't expect much more at this price point.I recommend it.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    Decent laptop, but it has a very basic flaw. The volume from the speakers is extremely low, to the point of being pathetic. After installing some software to boost the volume to like, 300%, it's audible clearlyAlso, the USB slots are tight, God knows why
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    A good product around a price range of 50k-55k.MX150 - 2 GB performance  - Good for medium level gamming. Can play AAA Games with adjusting the graphic levels. Excellent for day to day and medium level graphic related work.Buily quality and screen display good.On the cons side camera is VGA and battery backup is not long enough i.e 5- 6 hrs. The weight of product is mentioned as 1.8 kg but feels more like 2 kg. There are other lighter options available but are costlier.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    Bought it for Rs 65K. After using it for 2 weeks, here are the initial impressions:Pros:. ac wireless is very fast. I am getting 30MB/s download and upload to USB3 HDD plugged into my TP Link Archer C2600 router.. No flex on keyboard. The base is sturdy, lid is wobbly a bit, otherwise the whole build seems solid.. Sharp screen - With thin bezels and IPS, the images are vivid. Good for 3D work and movie watching.. Gpu is adequate for running current games at medium to low details. Its good enough for 3DS Max and other rendering packages.. TPM 2.0 present. It is recommended to use pro version of Windows to take advantage of the encryption features supported in hardware.. Battery lasts ~7hrs after 2-3 discharge cycles, moderate surfing, movie watching.. sound o/p is ok; as good as beats 2.1 setup in older laptop I was having. More louder also.. Less rubber - This laptop has less rubber so it will last long. I had to replace 5 year old HP laptop because the rubber parts around screen and lid had started rotting away and it was a mess cleaning it every time I opened it up.Cons:- Tight USB ports on left side - needs more force and might damage in long run- No kensigton lock port - why? This makes it unusable at most offices and workplaces.- No Ethernet; Using TP-Link UE300 USB adapter for ethernet which works well.- Stability: Intel Burn test passed but thermals is high, system getting stuck at times.- Drivers in website are hit or miss; tricky to install without setup program. It is recommended to save eSupport folder from the OEM installtion.- Cyberlink apps (Powerdirector, Photo Director) missing from downloads - You can image OEM installation as WIM file and unzip these apps from it after reinstalling Windows 10 freshly.- Air vents direct hot air to screen because they are at the hinges - dust accumulation after some time is seen- Easy to hit power button accidentally. Set the key action to nothing in windows as workaround.- Caps/num lk, hdd activity leds absent - The Caps lock is needed; others can be lived without.- Only Vga cam - My 5 year old laptop had HD resolution.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    I received the laptop approximately 1 week after I ordered it. The product was properly packed and the delivery guy insisted on OTP, which is a good thing considering expensive items.Laptop: Extremely light weight and even though it is 15.5\" still it is in the chassis of 14\" laptop. So it looks small.Initially the laptop comes with a lot of Asus apps which I found not very useful so I uninstalled them. The keyboard seems to be a little simple in quality but once you get used to it you feel its perfectly fine.I am a light gaming and some high end RAM and GPU hungry software like COMSOL user, the laptop does not get hot much for game like DOTA 2 with full graphics settings. Overall the GPU and RAM is more than enough. The touch pad is great and the fingerprint sensor works just fine. The camera is not the best in the market but I think its better than most of the laptops. The laptop is super fast because the OS in installed in SSD.Overall the laptop is great for professionals and students. I would totally recommend this laptop.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    I bought the laptop in May 2018. It has been running flawlessly since then and I have even gone ahead and advised my parents to buy the same laptop for themselves.Pros:Display- The screen is absolutely stunning. It's anti-glare, so you can look at it comfortably for a very long time.Performance- I couldn't find any other laptop in this range with both the MX150 graphics card and an Intel 8th gen processor. Combined with 8 GB RAM, you won't have any problems running modern games. Of course, do keep in mind that this is a laptop, don't expect the same performance as a desktop computer GPU.Cooling- The laptop stays cool during everyday use and doesn't heat up excessively while playing games.Build quality- The laptop is really thin and lightweight for the performance you get. It manages to fit a 15.6 inch screen in the size of a typical 14 inch laptop thanks to the thin bezels. I've liked the keyboard so far.Serviceability- You should find it fairly easy to dissemble the laptop on your own if you wish to. My previous HP laptop was horrible when it came to this.Cons:Bloatware- Remove the Asus apps (other than the battery one) and the default antivirus as soon as you get the laptop. Nothing more to say here.Speakers- Pretty underwhelming to say the least. Not a problem for me as I either use earphones or an external speaker.Webcam- It's bad, so don't get this laptop if that is really important to you. Personally, I've used the webcam once in the 5 months I have had the laptop.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    I bought this laptop a few weeks ago and here's what I uave noticed so far:Pros:1. Amazing Display2. Fairly portable3. Amazing performance4. Precise trackpad5. Decent keyboardCons:1. Very bad speakers2. Average battery life(~5-6 hours)3. Average build qualityThat being said, you can't expect much more at this price point.I recommend it.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    Decent laptop, but it has a very basic flaw. The volume from the speakers is extremely low, to the point of being pathetic. After installing some software to boost the volume to like, 300%, it's audible clearlyAlso, the USB slots are tight, God knows why
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    A good product around a price range of 50k-55k.MX150 - 2 GB performance  - Good for medium level gamming. Can play AAA Games with adjusting the graphic levels. Excellent for day to day and medium level graphic related work.Buily quality and screen display good.On the cons side camera is VGA and battery backup is not long enough i.e 5- 6 hrs. The weight of product is mentioned as 1.8 kg but feels more like 2 kg. There are other lighter options available but are costlier.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    Bought it for Rs 65K. After using it for 2 weeks, here are the initial impressions:Pros:. ac wireless is very fast. I am getting 30MB/s download and upload to USB3 HDD plugged into my TP Link Archer C2600 router.. No flex on keyboard. The base is sturdy, lid is wobbly a bit, otherwise the whole build seems solid.. Sharp screen - With thin bezels and IPS, the images are vivid. Good for 3D work and movie watching.. Gpu is adequate for running current games at medium to low details. Its good enough for 3DS Max and other rendering packages.. TPM 2.0 present. It is recommended to use pro version of Windows to take advantage of the encryption features supported in hardware.. Battery lasts ~7hrs after 2-3 discharge cycles, moderate surfing, movie watching.. sound o/p is ok; as good as beats 2.1 setup in older laptop I was having. More louder also.. Less rubber - This laptop has less rubber so it will last long. I had to replace 5 year old HP laptop because the rubber parts around screen and lid had started rotting away and it was a mess cleaning it every time I opened it up.Cons:- Tight USB ports on left side - needs more force and might damage in long run- No kensigton lock port - why? This makes it unusable at most offices and workplaces.- No Ethernet; Using TP-Link UE300 USB adapter for ethernet which works well.- Stability: Intel Burn test passed but thermals is high, system getting stuck at times.- Drivers in website are hit or miss; tricky to install without setup program. It is recommended to save eSupport folder from the OEM installtion.- Cyberlink apps (Powerdirector, Photo Director) missing from downloads - You can image OEM installation as WIM file and unzip these apps from it after reinstalling Windows 10 freshly.- Air vents direct hot air to screen because they are at the hinges - dust accumulation after some time is seen- Easy to hit power button accidentally. Set the key action to nothing in windows as workaround.- Caps/num lk, hdd activity leds absent - The Caps lock is needed; others can be lived without.- Only Vga cam - My 5 year old laptop had HD resolution.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    I received the laptop approximately 1 week after I ordered it. The product was properly packed and the delivery guy insisted on OTP, which is a good thing considering expensive items.Laptop: Extremely light weight and even though it is 15.5\" still it is in the chassis of 14\" laptop. So it looks small.Initially the laptop comes with a lot of Asus apps which I found not very useful so I uninstalled them. The keyboard seems to be a little simple in quality but once you get used to it you feel its perfectly fine.I am a light gaming and some high end RAM and GPU hungry software like COMSOL user, the laptop does not get hot much for game like DOTA 2 with full graphics settings. Overall the GPU and RAM is more than enough. The touch pad is great and the fingerprint sensor works just fine. The camera is not the best in the market but I think its better than most of the laptops. The laptop is super fast because the OS in installed in SSD.Overall the laptop is great for professionals and students. I would totally recommend this laptop.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    I bought the laptop in May 2018. It has been running flawlessly since then and I have even gone ahead and advised my parents to buy the same laptop for themselves.Pros:Display- The screen is absolutely stunning. It's anti-glare, so you can look at it comfortably for a very long time.Performance- I couldn't find any other laptop in this range with both the MX150 graphics card and an Intel 8th gen processor. Combined with 8 GB RAM, you won't have any problems running modern games. Of course, do keep in mind that this is a laptop, don't expect the same performance as a desktop computer GPU.Cooling- The laptop stays cool during everyday use and doesn't heat up excessively while playing games.Build quality- The laptop is really thin and lightweight for the performance you get. It manages to fit a 15.6 inch screen in the size of a typical 14 inch laptop thanks to the thin bezels. I've liked the keyboard so far.Serviceability- You should find it fairly easy to dissemble the laptop on your own if you wish to. My previous HP laptop was horrible when it came to this.Cons:Bloatware- Remove the Asus apps (other than the battery one) and the default antivirus as soon as you get the laptop. Nothing more to say here.Speakers- Pretty underwhelming to say the least. Not a problem for me as I either use earphones or an external speaker.Webcam- It's bad, so don't get this laptop if that is really important to you. Personally, I've used the webcam once in the 5 months I have had the laptop.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    I bought this laptop a few weeks ago and here's what I uave noticed so far:Pros:1. Amazing Display2. Fairly portable3. Amazing performance4. Precise trackpad5. Decent keyboardCons:1. Very bad speakers2. Average battery life(~5-6 hours)3. Average build qualityThat being said, you can't expect much more at this price point.I recommend it.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    Decent laptop, but it has a very basic flaw. The volume from the speakers is extremely low, to the point of being pathetic. After installing some software to boost the volume to like, 300%, it's audible clearlyAlso, the USB slots are tight, God knows why
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    A good product around a price range of 50k-55k.MX150 - 2 GB performance  - Good for medium level gamming. Can play AAA Games with adjusting the graphic levels. Excellent for day to day and medium level graphic related work.Buily quality and screen display good.On the cons side camera is VGA and battery backup is not long enough i.e 5- 6 hrs. The weight of product is mentioned as 1.8 kg but feels more like 2 kg. There are other lighter options available but are costlier.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    Bought it for Rs 65K. After using it for 2 weeks, here are the initial impressions:Pros:. ac wireless is very fast. I am getting 30MB/s download and upload to USB3 HDD plugged into my TP Link Archer C2600 router.. No flex on keyboard. The base is sturdy, lid is wobbly a bit, otherwise the whole build seems solid.. Sharp screen - With thin bezels and IPS, the images are vivid. Good for 3D work and movie watching.. Gpu is adequate for running current games at medium to low details. Its good enough for 3DS Max and other rendering packages.. TPM 2.0 present. It is recommended to use pro version of Windows to take advantage of the encryption features supported in hardware.. Battery lasts ~7hrs after 2-3 discharge cycles, moderate surfing, movie watching.. sound o/p is ok; as good as beats 2.1 setup in older laptop I was having. More louder also.. Less rubber - This laptop has less rubber so it will last long. I had to replace 5 year old HP laptop because the rubber parts around screen and lid had started rotting away and it was a mess cleaning it every time I opened it up.Cons:- Tight USB ports on left side - needs more force and might damage in long run- No kensigton lock port - why? This makes it unusable at most offices and workplaces.- No Ethernet; Using TP-Link UE300 USB adapter for ethernet which works well.- Stability: Intel Burn test passed but thermals is high, system getting stuck at times.- Drivers in website are hit or miss; tricky to install without setup program. It is recommended to save eSupport folder from the OEM installtion.- Cyberlink apps (Powerdirector, Photo Director) missing from downloads - You can image OEM installation as WIM file and unzip these apps from it after reinstalling Windows 10 freshly.- Air vents direct hot air to screen because they are at the hinges - dust accumulation after some time is seen- Easy to hit power button accidentally. Set the key action to nothing in windows as workaround.- Caps/num lk, hdd activity leds absent - The Caps lock is needed; others can be lived without.- Only Vga cam - My 5 year old laptop had HD resolution.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    I received the laptop approximately 1 week after I ordered it. The product was properly packed and the delivery guy insisted on OTP, which is a good thing considering expensive items.Laptop: Extremely light weight and even though it is 15.5\" still it is in the chassis of 14\" laptop. So it looks small.Initially the laptop comes with a lot of Asus apps which I found not very useful so I uninstalled them. The keyboard seems to be a little simple in quality but once you get used to it you feel its perfectly fine.I am a light gaming and some high end RAM and GPU hungry software like COMSOL user, the laptop does not get hot much for game like DOTA 2 with full graphics settings. Overall the GPU and RAM is more than enough. The touch pad is great and the fingerprint sensor works just fine. The camera is not the best in the market but I think its better than most of the laptops. The laptop is super fast because the OS in installed in SSD.Overall the laptop is great for professionals and students. I would totally recommend this laptop.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    I bought the laptop in May 2018. It has been running flawlessly since then and I have even gone ahead and advised my parents to buy the same laptop for themselves.Pros:Display- The screen is absolutely stunning. It's anti-glare, so you can look at it comfortably for a very long time.Performance- I couldn't find any other laptop in this range with both the MX150 graphics card and an Intel 8th gen processor. Combined with 8 GB RAM, you won't have any problems running modern games. Of course, do keep in mind that this is a laptop, don't expect the same performance as a desktop computer GPU.Cooling- The laptop stays cool during everyday use and doesn't heat up excessively while playing games.Build quality- The laptop is really thin and lightweight for the performance you get. It manages to fit a 15.6 inch screen in the size of a typical 14 inch laptop thanks to the thin bezels. I've liked the keyboard so far.Serviceability- You should find it fairly easy to dissemble the laptop on your own if you wish to. My previous HP laptop was horrible when it came to this.Cons:Bloatware- Remove the Asus apps (other than the battery one) and the default antivirus as soon as you get the laptop. Nothing more to say here.Speakers- Pretty underwhelming to say the least. Not a problem for me as I either use earphones or an external speaker.Webcam- It's bad, so don't get this laptop if that is really important to you. Personally, I've used the webcam once in the 5 months I have had the laptop.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    I bought this laptop a few weeks ago and here's what I uave noticed so far:Pros:1. Amazing Display2. Fairly portable3. Amazing performance4. Precise trackpad5. Decent keyboardCons:1. Very bad speakers2. Average battery life(~5-6 hours)3. Average build qualityThat being said, you can't expect much more at this price point.I recommend it.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    Decent laptop, but it has a very basic flaw. The volume from the speakers is extremely low, to the point of being pathetic. After installing some software to boost the volume to like, 300%, it's audible clearlyAlso, the USB slots are tight, God knows why
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    A good product around a price range of 50k-55k.MX150 - 2 GB performance  - Good for medium level gamming. Can play AAA Games with adjusting the graphic levels. Excellent for day to day and medium level graphic related work.Buily quality and screen display good.On the cons side camera is VGA and battery backup is not long enough i.e 5- 6 hrs. The weight of product is mentioned as 1.8 kg but feels more like 2 kg. There are other lighter options available but are costlier.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    Bought it for Rs 65K. After using it for 2 weeks, here are the initial impressions:Pros:. ac wireless is very fast. I am getting 30MB/s download and upload to USB3 HDD plugged into my TP Link Archer C2600 router.. No flex on keyboard. The base is sturdy, lid is wobbly a bit, otherwise the whole build seems solid.. Sharp screen - With thin bezels and IPS, the images are vivid. Good for 3D work and movie watching.. Gpu is adequate for running current games at medium to low details. Its good enough for 3DS Max and other rendering packages.. TPM 2.0 present. It is recommended to use pro version of Windows to take advantage of the encryption features supported in hardware.. Battery lasts ~7hrs after 2-3 discharge cycles, moderate surfing, movie watching.. sound o/p is ok; as good as beats 2.1 setup in older laptop I was having. More louder also.. Less rubber - This laptop has less rubber so it will last long. I had to replace 5 year old HP laptop because the rubber parts around screen and lid had started rotting away and it was a mess cleaning it every time I opened it up.Cons:- Tight USB ports on left side - needs more force and might damage in long run- No kensigton lock port - why? This makes it unusable at most offices and workplaces.- No Ethernet; Using TP-Link UE300 USB adapter for ethernet which works well.- Stability: Intel Burn test passed but thermals is high, system getting stuck at times.- Drivers in website are hit or miss; tricky to install without setup program. It is recommended to save eSupport folder from the OEM installtion.- Cyberlink apps (Powerdirector, Photo Director) missing from downloads - You can image OEM installation as WIM file and unzip these apps from it after reinstalling Windows 10 freshly.- Air vents direct hot air to screen because they are at the hinges - dust accumulation after some time is seen- Easy to hit power button accidentally. Set the key action to nothing in windows as workaround.- Caps/num lk, hdd activity leds absent - The Caps lock is needed; others can be lived without.- Only Vga cam - My 5 year old laptop had HD resolution.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    I received the laptop approximately 1 week after I ordered it. The product was properly packed and the delivery guy insisted on OTP, which is a good thing considering expensive items.Laptop: Extremely light weight and even though it is 15.5\" still it is in the chassis of 14\" laptop. So it looks small.Initially the laptop comes with a lot of Asus apps which I found not very useful so I uninstalled them. The keyboard seems to be a little simple in quality but once you get used to it you feel its perfectly fine.I am a light gaming and some high end RAM and GPU hungry software like COMSOL user, the laptop does not get hot much for game like DOTA 2 with full graphics settings. Overall the GPU and RAM is more than enough. The touch pad is great and the fingerprint sensor works just fine. The camera is not the best in the market but I think its better than most of the laptops. The laptop is super fast because the OS in installed in SSD.Overall the laptop is great for professionals and students. I would totally recommend this laptop.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    I bought the laptop in May 2018. It has been running flawlessly since then and I have even gone ahead and advised my parents to buy the same laptop for themselves.Pros:Display- The screen is absolutely stunning. It's anti-glare, so you can look at it comfortably for a very long time.Performance- I couldn't find any other laptop in this range with both the MX150 graphics card and an Intel 8th gen processor. Combined with 8 GB RAM, you won't have any problems running modern games. Of course, do keep in mind that this is a laptop, don't expect the same performance as a desktop computer GPU.Cooling- The laptop stays cool during everyday use and doesn't heat up excessively while playing games.Build quality- The laptop is really thin and lightweight for the performance you get. It manages to fit a 15.6 inch screen in the size of a typical 14 inch laptop thanks to the thin bezels. I've liked the keyboard so far.Serviceability- You should find it fairly easy to dissemble the laptop on your own if you wish to. My previous HP laptop was horrible when it came to this.Cons:Bloatware- Remove the Asus apps (other than the battery one) and the default antivirus as soon as you get the laptop. Nothing more to say here.Speakers- Pretty underwhelming to say the least. Not a problem for me as I either use earphones or an external speaker.Webcam- It's bad, so don't get this laptop if that is really important to you. Personally, I've used the webcam once in the 5 months I have had the laptop.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    I bought this laptop a few weeks ago and here's what I uave noticed so far:Pros:1. Amazing Display2. Fairly portable3. Amazing performance4. Precise trackpad5. Decent keyboardCons:1. Very bad speakers2. Average battery life(~5-6 hours)3. Average build qualityThat being said, you can't expect much more at this price point.I recommend it.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    Decent laptop, but it has a very basic flaw. The volume from the speakers is extremely low, to the point of being pathetic. After installing some software to boost the volume to like, 300%, it's audible clearlyAlso, the USB slots are tight, God knows why
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    A good product around a price range of 50k-55k.MX150 - 2 GB performance  - Good for medium level gamming. Can play AAA Games with adjusting the graphic levels. Excellent for day to day and medium level graphic related work.Buily quality and screen display good.On the cons side camera is VGA and battery backup is not long enough i.e 5- 6 hrs. The weight of product is mentioned as 1.8 kg but feels more like 2 kg. There are other lighter options available but are costlier.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    Bought it for Rs 65K. After using it for 2 weeks, here are the initial impressions:Pros:. ac wireless is very fast. I am getting 30MB/s download and upload to USB3 HDD plugged into my TP Link Archer C2600 router.. No flex on keyboard. The base is sturdy, lid is wobbly a bit, otherwise the whole build seems solid.. Sharp screen - With thin bezels and IPS, the images are vivid. Good for 3D work and movie watching.. Gpu is adequate for running current games at medium to low details. Its good enough for 3DS Max and other rendering packages.. TPM 2.0 present. It is recommended to use pro version of Windows to take advantage of the encryption features supported in hardware.. Battery lasts ~7hrs after 2-3 discharge cycles, moderate surfing, movie watching.. sound o/p is ok; as good as beats 2.1 setup in older laptop I was having. More louder also.. Less rubber - This laptop has less rubber so it will last long. I had to replace 5 year old HP laptop because the rubber parts around screen and lid had started rotting away and it was a mess cleaning it every time I opened it up.Cons:- Tight USB ports on left side - needs more force and might damage in long run- No kensigton lock port - why? This makes it unusable at most offices and workplaces.- No Ethernet; Using TP-Link UE300 USB adapter for ethernet which works well.- Stability: Intel Burn test passed but thermals is high, system getting stuck at times.- Drivers in website are hit or miss; tricky to install without setup program. It is recommended to save eSupport folder from the OEM installtion.- Cyberlink apps (Powerdirector, Photo Director) missing from downloads - You can image OEM installation as WIM file and unzip these apps from it after reinstalling Windows 10 freshly.- Air vents direct hot air to screen because they are at the hinges - dust accumulation after some time is seen- Easy to hit power button accidentally. Set the key action to nothing in windows as workaround.- Caps/num lk, hdd activity leds absent - The Caps lock is needed; others can be lived without.- Only Vga cam - My 5 year old laptop had HD resolution.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    I received the laptop approximately 1 week after I ordered it. The product was properly packed and the delivery guy insisted on OTP, which is a good thing considering expensive items.Laptop: Extremely light weight and even though it is 15.5\" still it is in the chassis of 14\" laptop. So it looks small.Initially the laptop comes with a lot of Asus apps which I found not very useful so I uninstalled them. The keyboard seems to be a little simple in quality but once you get used to it you feel its perfectly fine.I am a light gaming and some high end RAM and GPU hungry software like COMSOL user, the laptop does not get hot much for game like DOTA 2 with full graphics settings. Overall the GPU and RAM is more than enough. The touch pad is great and the fingerprint sensor works just fine. The camera is not the best in the market but I think its better than most of the laptops. The laptop is super fast because the OS in installed in SSD.Overall the laptop is great for professionals and students. I would totally recommend this laptop.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    I bought the laptop in May 2018. It has been running flawlessly since then and I have even gone ahead and advised my parents to buy the same laptop for themselves.Pros:Display- The screen is absolutely stunning. It's anti-glare, so you can look at it comfortably for a very long time.Performance- I couldn't find any other laptop in this range with both the MX150 graphics card and an Intel 8th gen processor. Combined with 8 GB RAM, you won't have any problems running modern games. Of course, do keep in mind that this is a laptop, don't expect the same performance as a desktop computer GPU.Cooling- The laptop stays cool during everyday use and doesn't heat up excessively while playing games.Build quality- The laptop is really thin and lightweight for the performance you get. It manages to fit a 15.6 inch screen in the size of a typical 14 inch laptop thanks to the thin bezels. I've liked the keyboard so far.Serviceability- You should find it fairly easy to dissemble the laptop on your own if you wish to. My previous HP laptop was horrible when it came to this.Cons:Bloatware- Remove the Asus apps (other than the battery one) and the default antivirus as soon as you get the laptop. Nothing more to say here.Speakers- Pretty underwhelming to say the least. Not a problem for me as I either use earphones or an external speaker.Webcam- It's bad, so don't get this laptop if that is really important to you. Personally, I've used the webcam once in the 5 months I have had the laptop.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    I bought this laptop a few weeks ago and here's what I uave noticed so far:Pros:1. Amazing Display2. Fairly portable3. Amazing performance4. Precise trackpad5. Decent keyboardCons:1. Very bad speakers2. Average battery life(~5-6 hours)3. Average build qualityThat being said, you can't expect much more at this price point.I recommend it.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    Decent laptop, but it has a very basic flaw. The volume from the speakers is extremely low, to the point of being pathetic. After installing some software to boost the volume to like, 300%, it's audible clearlyAlso, the USB slots are tight, God knows why
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    A good product around a price range of 50k-55k.MX150 - 2 GB performance  - Good for medium level gamming. Can play AAA Games with adjusting the graphic levels. Excellent for day to day and medium level graphic related work.Buily quality and screen display good.On the cons side camera is VGA and battery backup is not long enough i.e 5- 6 hrs. The weight of product is mentioned as 1.8 kg but feels more like 2 kg. There are other lighter options available but are costlier.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    Bought it for Rs 65K. After using it for 2 weeks, here are the initial impressions:Pros:. ac wireless is very fast. I am getting 30MB/s download and upload to USB3 HDD plugged into my TP Link Archer C2600 router.. No flex on keyboard. The base is sturdy, lid is wobbly a bit, otherwise the whole build seems solid.. Sharp screen - With thin bezels and IPS, the images are vivid. Good for 3D work and movie watching.. Gpu is adequate for running current games at medium to low details. Its good enough for 3DS Max and other rendering packages.. TPM 2.0 present. It is recommended to use pro version of Windows to take advantage of the encryption features supported in hardware.. Battery lasts ~7hrs after 2-3 discharge cycles, moderate surfing, movie watching.. sound o/p is ok; as good as beats 2.1 setup in older laptop I was having. More louder also.. Less rubber - This laptop has less rubber so it will last long. I had to replace 5 year old HP laptop because the rubber parts around screen and lid had started rotting away and it was a mess cleaning it every time I opened it up.Cons:- Tight USB ports on left side - needs more force and might damage in long run- No kensigton lock port - why? This makes it unusable at most offices and workplaces.- No Ethernet; Using TP-Link UE300 USB adapter for ethernet which works well.- Stability: Intel Burn test passed but thermals is high, system getting stuck at times.- Drivers in website are hit or miss; tricky to install without setup program. It is recommended to save eSupport folder from the OEM installtion.- Cyberlink apps (Powerdirector, Photo Director) missing from downloads - You can image OEM installation as WIM file and unzip these apps from it after reinstalling Windows 10 freshly.- Air vents direct hot air to screen because they are at the hinges - dust accumulation after some time is seen- Easy to hit power button accidentally. Set the key action to nothing in windows as workaround.- Caps/num lk, hdd activity leds absent - The Caps lock is needed; others can be lived without.- Only Vga cam - My 5 year old laptop had HD resolution.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    I received the laptop approximately 1 week after I ordered it. The product was properly packed and the delivery guy insisted on OTP, which is a good thing considering expensive items.Laptop: Extremely light weight and even though it is 15.5\" still it is in the chassis of 14\" laptop. So it looks small.Initially the laptop comes with a lot of Asus apps which I found not very useful so I uninstalled them. The keyboard seems to be a little simple in quality but once you get used to it you feel its perfectly fine.I am a light gaming and some high end RAM and GPU hungry software like COMSOL user, the laptop does not get hot much for game like DOTA 2 with full graphics settings. Overall the GPU and RAM is more than enough. The touch pad is great and the fingerprint sensor works just fine. The camera is not the best in the market but I think its better than most of the laptops. The laptop is super fast because the OS in installed in SSD.Overall the laptop is great for professionals and students. I would totally recommend this laptop.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    I bought the laptop in May 2018. It has been running flawlessly since then and I have even gone ahead and advised my parents to buy the same laptop for themselves.Pros:Display- The screen is absolutely stunning. It's anti-glare, so you can look at it comfortably for a very long time.Performance- I couldn't find any other laptop in this range with both the MX150 graphics card and an Intel 8th gen processor. Combined with 8 GB RAM, you won't have any problems running modern games. Of course, do keep in mind that this is a laptop, don't expect the same performance as a desktop computer GPU.Cooling- The laptop stays cool during everyday use and doesn't heat up excessively while playing games.Build quality- The laptop is really thin and lightweight for the performance you get. It manages to fit a 15.6 inch screen in the size of a typical 14 inch laptop thanks to the thin bezels. I've liked the keyboard so far.Serviceability- You should find it fairly easy to dissemble the laptop on your own if you wish to. My previous HP laptop was horrible when it came to this.Cons:Bloatware- Remove the Asus apps (other than the battery one) and the default antivirus as soon as you get the laptop. Nothing more to say here.Speakers- Pretty underwhelming to say the least. Not a problem for me as I either use earphones or an external speaker.Webcam- It's bad, so don't get this laptop if that is really important to you. Personally, I've used the webcam once in the 5 months I have had the laptop.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    I bought this laptop a few weeks ago and here's what I uave noticed so far:Pros:1. Amazing Display2. Fairly portable3. Amazing performance4. Precise trackpad5. Decent keyboardCons:1. Very bad speakers2. Average battery life(~5-6 hours)3. Average build qualityThat being said, you can't expect much more at this price point.I recommend it.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    Decent laptop, but it has a very basic flaw. The volume from the speakers is extremely low, to the point of being pathetic. After installing some software to boost the volume to like, 300%, it's audible clearlyAlso, the USB slots are tight, God knows why
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    A good product around a price range of 50k-55k.MX150 - 2 GB performance  - Good for medium level gamming. Can play AAA Games with adjusting the graphic levels. Excellent for day to day and medium level graphic related work.Buily quality and screen display good.On the cons side camera is VGA and battery backup is not long enough i.e 5- 6 hrs. The weight of product is mentioned as 1.8 kg but feels more like 2 kg. There are other lighter options available but are costlier.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    Bought it for Rs 65K. After using it for 2 weeks, here are the initial impressions:Pros:. ac wireless is very fast. I am getting 30MB/s download and upload to USB3 HDD plugged into my TP Link Archer C2600 router.. No flex on keyboard. The base is sturdy, lid is wobbly a bit, otherwise the whole build seems solid.. Sharp screen - With thin bezels and IPS, the images are vivid. Good for 3D work and movie watching.. Gpu is adequate for running current games at medium to low details. Its good enough for 3DS Max and other rendering packages.. TPM 2.0 present. It is recommended to use pro version of Windows to take advantage of the encryption features supported in hardware.. Battery lasts ~7hrs after 2-3 discharge cycles, moderate surfing, movie watching.. sound o/p is ok; as good as beats 2.1 setup in older laptop I was having. More louder also.. Less rubber - This laptop has less rubber so it will last long. I had to replace 5 year old HP laptop because the rubber parts around screen and lid had started rotting away and it was a mess cleaning it every time I opened it up.Cons:- Tight USB ports on left side - needs more force and might damage in long run- No kensigton lock port - why? This makes it unusable at most offices and workplaces.- No Ethernet; Using TP-Link UE300 USB adapter for ethernet which works well.- Stability: Intel Burn test passed but thermals is high, system getting stuck at times.- Drivers in website are hit or miss; tricky to install without setup program. It is recommended to save eSupport folder from the OEM installtion.- Cyberlink apps (Powerdirector, Photo Director) missing from downloads - You can image OEM installation as WIM file and unzip these apps from it after reinstalling Windows 10 freshly.- Air vents direct hot air to screen because they are at the hinges - dust accumulation after some time is seen- Easy to hit power button accidentally. Set the key action to nothing in windows as workaround.- Caps/num lk, hdd activity leds absent - The Caps lock is needed; others can be lived without.- Only Vga cam - My 5 year old laptop had HD resolution.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    I received the laptop approximately 1 week after I ordered it. The product was properly packed and the delivery guy insisted on OTP, which is a good thing considering expensive items.Laptop: Extremely light weight and even though it is 15.5\" still it is in the chassis of 14\" laptop. So it looks small.Initially the laptop comes with a lot of Asus apps which I found not very useful so I uninstalled them. The keyboard seems to be a little simple in quality but once you get used to it you feel its perfectly fine.I am a light gaming and some high end RAM and GPU hungry software like COMSOL user, the laptop does not get hot much for game like DOTA 2 with full graphics settings. Overall the GPU and RAM is more than enough. The touch pad is great and the fingerprint sensor works just fine. The camera is not the best in the market but I think its better than most of the laptops. The laptop is super fast because the OS in installed in SSD.Overall the laptop is great for professionals and students. I would totally recommend this laptop.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    I bought the laptop in May 2018. It has been running flawlessly since then and I have even gone ahead and advised my parents to buy the same laptop for themselves.Pros:Display- The screen is absolutely stunning. It's anti-glare, so you can look at it comfortably for a very long time.Performance- I couldn't find any other laptop in this range with both the MX150 graphics card and an Intel 8th gen processor. Combined with 8 GB RAM, you won't have any problems running modern games. Of course, do keep in mind that this is a laptop, don't expect the same performance as a desktop computer GPU.Cooling- The laptop stays cool during everyday use and doesn't heat up excessively while playing games.Build quality- The laptop is really thin and lightweight for the performance you get. It manages to fit a 15.6 inch screen in the size of a typical 14 inch laptop thanks to the thin bezels. I've liked the keyboard so far.Serviceability- You should find it fairly easy to dissemble the laptop on your own if you wish to. My previous HP laptop was horrible when it came to this.Cons:Bloatware- Remove the Asus apps (other than the battery one) and the default antivirus as soon as you get the laptop. Nothing more to say here.Speakers- Pretty underwhelming to say the least. Not a problem for me as I either use earphones or an external speaker.Webcam- It's bad, so don't get this laptop if that is really important to you. Personally, I've used the webcam once in the 5 months I have had the laptop.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    I bought this laptop a few weeks ago and here's what I uave noticed so far:Pros:1. Amazing Display2. Fairly portable3. Amazing performance4. Precise trackpad5. Decent keyboardCons:1. Very bad speakers2. Average battery life(~5-6 hours)3. Average build qualityThat being said, you can't expect much more at this price point.I recommend it.
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    Decent laptop, but it has a very basic flaw. The volume from the speakers is extremely low, to the point of being pathetic. After installing some software to boost the volume to like, 300%, it's audible clearlyAlso, the USB slots are tight, God knows why
+  
+Read more"
+"
+
+
+
+
+
+
+
+  
+  
+    A good product around a price range of 50k-55k.MX150 - 2 GB performance  - Good for medium level gamming. Can play AAA Games with adjusting the graphic levels. Excellent for day to day and medium level graphic related work.Buily quality and screen display good.On the cons side camera is VGA and battery backup is not long enough i.e 5- 6 hrs. The weight of product is mentioned as 1.8 kg but feels more like 2 kg. There are other lighter options available but are costlier.
+  
+Read more"
