@@ -1,0 +1,60 @@
+train_salary <- read.csv(file.choose())
+test_salary <- read.csv(file.choose())
+View(train_salary)
+View(test_salary)
+str(train_salary)
+str(test_salary)
+train_salary$educationno <- as.factor(train_salary$educationno)
+test_salary$educationno <- as.factor(test_salary$educationno)
+class(train_sal)
+class(test_salary)
+summary(train_salary)
+summary(test_salary)
+attach(train_salary)
+
+#Visualization 
+# Plot and ggplot 
+library(ggplot2)
+plot(workclass,Salary)
+plot(education,Salary)
+plot(educationno,Salary)
+plot(maritalstatus,Salary)
+plot(occupation,Salary)
+plot(relationship,Salary)
+plot(race,Salary)
+plot(sex,Salary)
+plot(native,Salary)
+
+ggplot(data=train_salary,aes(x=Salary, y=age, fill = Salary)) +geom_boxplot()
+ggplot(data=train_salary,aes(x=Salary, y = capitalgain, fill = Salary)) +geom_boxplot() 
+ggplot(data=train_salary,aes(x=Salary, y = capitalloss, fill = Salary)) +geom_boxplot() 
+ggplot(data=train_salary,aes(x=Salary, y = hoursperweek, fill = Salary)) +geom_boxplot() 
+
+
+#Density Plot 
+
+ggplot(data=train_salary,aes(x = age, fill = Salary)) +geom_density(alpha = 0.9, color = 'Violet')
+ggplot(data=train_salary,aes(x = workclass, fill = Salary)) +geom_density(alpha = 0.9, color = 'Violet')
+ggplot(data=train_salary,aes(x = education, fill = Salary)) +geom_density(alpha = 0.9, color = 'Violet')
+ggplot(data=train_salary,aes(x = educationno, fill = Salary)) +geom_density(alpha = 0.9, color = 'Violet')
+ggplot(data=train_salary,aes(x = maritalstatus, fill = Salary)) +geom_density(alpha = 0.9, color = 'Violet')
+ggplot(data=train_salary,aes(x = occupation, fill = Salary)) +geom_density(alpha = 0.9, color = 'Violet')
+ggplot(data=train_salary,aes(x = sex, fill = Salary)) +geom_density(alpha = 0.9, color = 'Violet')
+ggplot(data=train_salary,aes(x = relationship, fill = Salary)) +geom_density(alpha = 0.9, color = 'Violet')
+ggplot(data=train_salary,aes(x = race, fill = Salary)) +geom_density(alpha = 0.9, color = 'Violet')
+ggplot(data=train_salary,aes(x = capitalgain, fill = Salary)) +geom_density(alpha = 0.9, color = 'Violet')
+ggplot(data=train_salary,aes(x = capitalloss, fill = Salary)) +geom_density(alpha = 0.9, color = 'Violet')
+ggplot(data=train_salary,aes(x = hoursperweek, fill = Salary)) +geom_density(alpha = 0.9, color = 'Violet')
+ggplot(data=train_salary,aes(x = native, fill = Salary)) +geom_density(alpha = 0.9, color = 'Violet')
+
+# Naive Bayes Model 
+install.packages("naivebayes")
+library(naivebayes)
+library(e1071)
+Model <- naiveBayes(Salary ~ ., data = train_salary)
+Model
+Model_pred <- predict(Model,test_salary)
+table(Model_pred)
+mean(Model_pred==test_salary$Salary)
+library(caret)
+confusionMatrix(Model_pred,test_salary$Salary)
